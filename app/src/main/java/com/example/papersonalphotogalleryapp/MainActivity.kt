@@ -8,6 +8,12 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
+/*
+Aeon Toran
+PA Photo Gallery App
+February 22, 2026
+ */
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var largeImage: ImageView
